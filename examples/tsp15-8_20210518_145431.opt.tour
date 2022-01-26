@@ -1,0 +1,21 @@
+NAME : tsp15-8_20210518_145431 (Opt)
+COMMENT : Length 372.31167, Brute-force solved by GitHub user:GunterSchmidt
+TYPE : TOUR
+DIMENSION : 15
+TOUR_SECTION
+   1
+  11
+   6
+   8
+  12
+  14
+  15
+  13
+   3
+   7
+   9
+  10
+   2
+   4
+   5
+EOF

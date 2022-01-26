@@ -1,5 +1,5 @@
-# Travelling_Salesman_Problem_Data
-Repository for Travelling Salesman Problems (mostly Euklydian 2D) with their solutions.
+# Traveling_Salesman_Problem_Data
+Repository for Traveling Salesman Problems (mostly Euklydian 2D) with their solutions.
 
 This is a repository for a very large number of TSP-Problems. Each package contains 5,000 TSPs.
 

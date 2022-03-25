@@ -1,10 +1,10 @@
 # Traveling_Salesman_Problem_Data
-Repository for Traveling Salesman Problems (mostly Euklydian 2D) with their solutions.
+Repository for Traveling Salesman Problems (Euklydian 2D) with their optimal solutions.
 
 This is a repository for a very large number of TSP-Problems. Each package contains 5,000 TSPs and their solutions.
-All files in TspLib95 format.
+All files are in TspLib95 format.
 
-It may be suitable for people trying out algorithms on TSPs and comparing to the optimal solution.
+It may be suitable for people testing algorithms on TSPs and comparing quality to the optimal solution.
 
 All TSPs are brute-force calculated with double number precision. As such, the solutions are expected to be correct.
 
